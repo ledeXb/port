@@ -1,6 +1,6 @@
 # port
 #########################################
-Tihs tool istocheck the open port open in the router and extractthe informaion
+# Tihs tool istocheck the open port open in the router and extractthe informaion
 ##################################
 apt install git
 ##############################
